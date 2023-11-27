@@ -37,6 +37,7 @@
    "packs": [
     {
       "name": "um5-feats",
+	  "system": "dnd5e",
       "label": "UM5 Ch.1: Skills, Proficiencies, & Feats",
       "path": "packs/um5-feats.db",
       "entity": "Item",
@@ -44,6 +45,7 @@
     },
     {
       "name": "um5-backgrounds",
+	  "system": "dnd5e",
       "label": "UM5 Ch.2: Backgrounds",
       "path": "packs/um5-backgrounds.db",
       "entity": "Item",
@@ -51,6 +53,7 @@
     },
     {
       "name": "um5-tables",
+	  "system": "dnd5e",
       "label": "UM5 Ch.2: Lifepath & Life Events",
       "path": "packs/um5-lifetables.db",
       "entity": "RollTable",
@@ -58,6 +61,7 @@
     },
     {
       "name": "um5-ladders",
+	  "system": "dnd5e",
       "label": "UM5 Ch.3: Ladders",
       "path": "packs/um5-ladders.db",
       "entity": "Item",
@@ -65,6 +69,7 @@
     },
     {
       "name": "um5-classes",
+	  "system": "dnd5e",
       "label": "UM5 Ch.4: Classes",
       "path": "packs/um5-classes.db",
       "entity": "Item",
@@ -72,6 +77,7 @@
     },
     {
       "name": "um5-classfeatures",
+	  "system": "dnd5e",
       "label": "UM5 Ch.4 Class Features",
       "path": "packs/um5-classfeatures.db",
       "entity": "Item",
@@ -79,6 +85,7 @@
     },
     {
       "name": "um5-archetypes",
+	  "system": "dnd5e",
       "label": "UM5 Ch.5: Archetypes",
       "path": "packs/um5-archetypes.db",
       "entity": "Item",
@@ -86,6 +93,7 @@
     },
     {
       "name": "um5-rules",
+	  "system": "dnd5e",
       "label": "UM5 Ch.6: New Rules Summary",
       "path": "packs/um5-rules.db",
       "entity": "JournalEntry",
@@ -93,6 +101,7 @@
     },
     {
       "name": "um5-weaponproperties",
+	  "system": "dnd5e",
       "label": "UM5 Ch.6: New Weapon Properties",
       "path": "packs/um5-weaponproperties.db",
       "entity": "JournalEntry",
@@ -100,6 +109,7 @@
     },
     {
       "name": "um5-equipment",
+	  "system": "dnd5e",
       "label": "UM5 Ch.6: Equipment",
       "path": "packs/um5-equipment.db",
       "entity": "Item",
@@ -107,6 +117,7 @@
     },
     {
       "name": "um5-vehicles",
+	  "system": "dnd5e",
       "label": "UM5 Ch.6: Vehicles",
       "path": "packs/um5-vehicles.db",
       "entity": "Actor",
@@ -114,6 +125,7 @@
     },
     {
       "name": "um5-mechs",
+	  "system": "dnd5e",
       "label": "UM5 Ch.6: Exo-Armor (Mechs)",
       "path": "packs/um5-mechs.db",
       "entity": "Actor",
@@ -121,6 +133,7 @@
     },
     {
       "name": "um5-characters",
+	  "system": "dnd5e",
       "label": "UM5 Characters",
       "path": "packs/um5-characters.db",
       "entity": "Actor",
@@ -128,6 +141,7 @@
     },
     {
       "name": "um5-antagonists",
+	  "system": "dnd5e",
       "label": "UM5 Ch.7: Antagonists & Enemies",
       "path": "packs/um5-antagonists.db",
       "entity": "Actor",
@@ -135,6 +149,7 @@
     },
     {
       "name": "um5-antagonisttraits",
+	  "system": "dnd5e",
       "label": "UM5 Ch.7: Antagonist Traits",
       "path": "packs/um5-antagonisttraits.db",
       "entity": "Item",
@@ -142,6 +157,7 @@
     },
     {
       "name": "Modern Locations",
+	  "system": "dnd5e",
       "label": "UM5 Modern Locations",
       "path": "packs/modernscenes.db",
       "entity": "Scene",
@@ -149,9 +165,9 @@
     }
    ],
     "url": "https://restenford.com/",
-    "manifest": "https://raw.githubusercontent.com/MrBrentRogers/UM5-Ultramodern5-OGL/master/module.json",
-    "download": "https://github.com/MrBrentRogers/UM5-Ultramodern5-OGL/releases/download/v0.3/um5-ultramodern-ogl.zip",
-    "changelog": "https://raw.githubusercontent.com/MrBrentRogers/UM5-Ultramodern5-OGL/master/changelog.md",
+    "manifest": "https://raw.githubusercontent.com/RedactedUser404/UM5-Ultramodern5-OGL-11/master/module.json",
+    "download": "https://github.com/RedactedUser404/download/v11/UM5-Ultramodern5-OGL-11.zip",
+    "changelog": "https://raw.githubusercontent.com/RedactedUser404/UM5-Ultramodern5-OGL-11/master/changelog.md",
     "bugs": "https://github.com/MrBrentRogers/UM5-Ultramodern5-OGL/issues",
     "allowBugReporter": true,
     "languages": [
