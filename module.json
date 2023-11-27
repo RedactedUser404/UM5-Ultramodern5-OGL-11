@@ -173,7 +173,7 @@
    ],
     "url": "https://restenford.com/",
     "manifest": "https://raw.githubusercontent.com/RedactedUser404/UM5-Ultramodern5-OGL-11/master/module.json",
-    "download": "https://github.com/RedactedUser404/download/v11/UM5-Ultramodern5-OGL-11.zip",
+    "download": "https://github.com/RedactedUser404/UM5-Ultramodern5-OGL-11/releases/download/v11/um5-ultramodern-ogl-11.zip",
     "changelog": "https://raw.githubusercontent.com/RedactedUser404/UM5-Ultramodern5-OGL-11/master/changelog.md",
     "bugs": "https://github.com/MrBrentRogers/UM5-Ultramodern5-OGL/issues",
     "allowBugReporter": true,
